@@ -1,0 +1,8 @@
+<outer>
+outerValue
+	<innerItem1>inner1Value</innerItem1>
+	<innItm2>inner2Value
+		<inInnItm2>in side innItm2 - a</inInnItm2>
+		<inInnItm2>in side innItm2 - b</inInnItm2>
+	</innItm2>
+</outer>
