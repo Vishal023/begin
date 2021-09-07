@@ -1,1 +1,2 @@
 file1 add and commit
+Changed file1 => Add and commit to branch [ branchName = local ] and then merge to branch [ branchName = master ]
